@@ -27,14 +27,21 @@ Secure your spot early!
 Participants will automatically receive calendar invites and study materials.
 
 January: Introduction to Investment Research
+
 February: Data Curation & Feature Engineering
+
 March: Portfolio Construction & Strategy Modeling
+
 April: Backtesting & Attribution Analysis
+
 May: Final Strategy Prep + Mock Presentation
 
 💡Topics You Can Hack
+
   ETFs Asset Allocation
+  
   Stock Picking
+  
   Crypto Strategies
 
 Questions: research@kaxanuk.mx 
