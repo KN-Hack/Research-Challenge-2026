@@ -13,7 +13,9 @@ Challenge Dates: June 11–13, 2026
 Location: Puebla, Mexico
 
 🕒Registration Fee (Individual):
+
   MXN $500 — Early Bird (until February 28)
+
   MXN $1,000 — Regular (March 1 to May 31, 2026)
 
 🔥Limited Capacity: Only 100 teams (up to 400 participants).
