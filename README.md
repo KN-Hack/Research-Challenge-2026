@@ -14,9 +14,9 @@ Registration form: https://docs.google.com/forms/d/e/1FAIpQLSf0E0blgT9a3K3JQe_ld
 
 📅Event Details
 
-Challenge Dates: June 11–13, 2026
+Challenge Dates: June 4–6, 2026
 
-Location: Puebla, Mexico
+Location: Universidad Anahuac Puebla
 
 🕒Registration Fee (Individual):
 
