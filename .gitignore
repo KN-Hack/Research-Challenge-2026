@@ -167,4 +167,4 @@ cython_debug/
 
 # Customizations
 !Config/.env
-Investment_Strategy/Output/*
+*.csv
