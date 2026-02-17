@@ -166,6 +166,5 @@ cython_debug/
 .debug/
 
 # Customizations
-S02 Data Curation & Feature Engineering/__main__*.py
-S02 Data Curation & Feature Engineering/Config/*
-S02 Data Curation & Feature Engineering/Output/*
+!Config/.env
+Investment_Strategy/Output/*

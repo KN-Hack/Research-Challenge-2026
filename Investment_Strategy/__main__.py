@@ -22,7 +22,6 @@ import pathlib
 #   src/kaxanuk : Mark Directory As > Namespace Package
 import kaxanuk.data_curator
 
-
 # Load the user's environment variables from Config/.env, including data provider API keys
 kaxanuk.data_curator.load_config_env()
 
@@ -33,10 +32,16 @@ if os.environ.get('KNDC_DEBUG_PORT') is not None:
     )
 
 # Load user's custom calculations module, if exists in Config dir
-if pathlib.Path('Config/custom_calculations.py').is_file():
+if ( pathlib.Path('src/alpha_signals/simple_moving_average_alpha_signal.py').is_file()
+    and pathlib.Path('src/outlier_adjusted_data/shares_outstanding_outlier_adjusted.py').is_file()
+):
     # noinspection PyUnresolvedReferences
-    from Config import custom_calculations
-    custom_calculation_modules = [custom_calculations]
+    from alpha_signals import simple_moving_average_alpha_signal
+    from outlier_adjusted_data import shares_outstanding_outlier_adjusted
+
+    custom_calculation_modules = [simple_moving_average_alpha_signal,
+                                  shares_outstanding_outlier_adjusted,
+                                  ]
 else:
     custom_calculation_modules = []
 
