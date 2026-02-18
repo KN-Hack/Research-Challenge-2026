@@ -6,6 +6,8 @@ The KN Hack 2026 is a team-based investment strategy challenge (teams of 2 to 4 
 
 S01 KN Hack Kick-Off & Intro to Investment Research: https://www.youtube.com/watch?v=_jBLqYBaP-I
 
+S02 Data Curation & Feature Engineering: https://www.youtube.com/watch?v=vydafB8UM9g
+
 # Event Details
 
 By registering individually, you will receive all event information and payment instructions directly to your email.
