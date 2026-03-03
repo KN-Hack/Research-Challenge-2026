@@ -39,8 +39,8 @@ if ( pathlib.Path('src/alpha_signals/simple_moving_average_alpha_signal.py').is_
     and pathlib.Path('src/outlier_adjusted_data/shares_outstanding_outlier_adjusted.py').is_file()
 ):
     # noinspection PyUnresolvedReferences
-    from alpha_signals import simple_moving_average_alpha_signal
-    from outlier_adjusted_data import shares_outstanding_outlier_adjusted
+    from src.alpha_signals import simple_moving_average_alpha_signal
+    from src.outlier_adjusted_data import shares_outstanding_outlier_adjusted
 
     custom_calculation_modules = [simple_moving_average_alpha_signal,
                                   shares_outstanding_outlier_adjusted,
